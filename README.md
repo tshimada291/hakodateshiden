@@ -3,7 +3,7 @@
 函館市の公開するオープンデータを基に作成しています。
 
 ## ライセンス
-使用データに基づき，[CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) を適用します。
+使用データに基づき，[CC BY-SA](https://creativecommons.org/licenses/by-sa/2.1/jp/) を適用します。
 
 ### （データ出典元）
 * 位置情報以外：「市電の運行時刻」「市電の乗車料金・営業距離」、[函館市オープンデータ](http://www.city.hakodate.hokkaido.jp/docs/2016072200055/)（[CC BY](https://creativecommons.org/licenses/by/2.0/)）
