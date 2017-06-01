@@ -1,0 +1,55 @@
+trans_id,lang,translation
+函館市電,ja_Hrkt,はこだてしでん
+湯の川,ja_Hrkt,ゆのかわ
+湯の川温泉,ja_Hrkt,ゆのかわおんせん
+函館アリーナ前（市民会館前）,ja_Hrkt,はこだてありーなまえ（しみんかいかんまえ）
+駒場車庫前,ja_Hrkt,こまばしゃこまえ
+競馬場前,ja_Hrkt,けいばじょうまえ
+深堀町,ja_Hrkt,ふかぼりちょう
+柏木町,ja_Hrkt,かしわぎちょう
+杉並町,ja_Hrkt,すぎなみちょう
+五稜郭公園前,ja_Hrkt,ごりょうかくこうえんまえ
+中央病院前,ja_Hrkt,ちゅうおうびょういんまえ
+千代台,ja_Hrkt,ちよがだい
+堀川町,ja_Hrkt,ほりかわちょう
+昭和橋,ja_Hrkt,しょうわばし
+千歳町,ja_Hrkt,ちとせちょう
+新川町,ja_Hrkt,しんかわちょう
+松風町,ja_Hrkt,まつかぜちょう
+函館駅前,ja_Hrkt,はこだてえきまえ
+市役所前,ja_Hrkt,しやくしょまえ
+魚市場通（函館信金本店前）,ja_Hrkt,うおいちばどおり（はこだてしんきんほんてんまえ）
+十字街,ja_Hrkt,じゅうじがい
+末広町,ja_Hrkt,すえひろちょう
+大町,ja_Hrkt,おおまち
+函館どつく前,ja_Hrkt,はこだてどっくまえ
+宝来町,ja_Hrkt,ほうらいちょう
+青柳町,ja_Hrkt,あおやぎちょう
+谷地頭,ja_Hrkt,やちがしら
+函館市電,en,Hakodate Shiden
+湯の川,en,Yunokawa
+湯の川温泉,en,Yunokawa Onsen
+函館アリーナ前（市民会館前）,en,Hakodate Arena mae
+駒場車庫前,en,Komaba Shako mae
+競馬場前,en,Keibajyo mae
+深堀町,en,Fukabori cho
+柏木町,en,Kashiwagi cho
+杉並町,en,Suginami cho
+五稜郭公園前,en,Goryokaku Park
+中央病院前,en,Chuo Hospital
+千代台,en,Chiyonodai
+堀川町,en,Horikawa cho
+昭和橋,en,Showabashi
+千歳町,en,Chitose cho
+新川町,en,Shinkawa cho
+松風町,en,Matsukaze cho
+函館駅前,en,Hakodate station
+市役所前,en,Shiyakusho mae
+魚市場通（函館信金本店前）,en,Uoichiba dori
+十字街,en,Jujigai
+末広町,en,Suehiro cho
+大町,en,Omachi
+函館どつく前,en,Hakodate Dokku mae
+宝来町,en,Horai cho
+青柳町,en,Aoyagi cho
+谷地頭,en,Yachigashira
