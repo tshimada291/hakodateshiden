@@ -7,7 +7,10 @@
 
 ### （データ出典元）
 * 位置情報以外：「市電の運行時刻」「市電の乗車料金・営業距離」、[函館市オープンデータ](http://www.city.hakodate.hokkaido.jp/docs/2016072200055/)（[CC BY](https://creativecommons.org/licenses/by/2.0/)）
-* 緯度経度情報（stops.txt）： [OpenStreetMap](http://openstreetmap.org/copyright)（[CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)）
+* 緯度経度情報（stops.txt, shapes.txt）： [OpenStreetMap](http://openstreetmap.org/copyright)（[CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)）
+
+### 更新情報
+* 2017.07.24 shapes更新(OSM版)，office_jp・transfer追加（試行版）
 
 ## 参考
 * [GTFSとは（Google）](https://developers.google.com/transit/gtfs/?hl=ja)
