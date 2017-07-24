@@ -1,0 +1,3 @@
+from_stop_id,to_stop_id,transfers_type,min_transfer_time
+hkd20-01,hkd20-02,0,
+hkd20-02,hkd20-01,0,

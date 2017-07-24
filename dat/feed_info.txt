@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-T.Shimada,https://github.com/tshimada291/,ja,20170401,20180331,ver1
+T.Shimada,https://tshimada291.github.io/hakodateshiden/,ja,20170401,20201231,2017v1.1

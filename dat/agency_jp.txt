@@ -1,2 +1,2 @@
 agency_id,agency_official_name,agency_zip_number,agency_address,agency_president_pos,agency_president_name
-9000020012025,函館市企業局交通部,040-8666,北海道函館市東雲町4番13号,,
+9000020012025,函館市企業局交通部,040-8666,北海道函館市駒場町15番1号,,
