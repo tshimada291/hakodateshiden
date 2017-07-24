@@ -11,6 +11,7 @@
 
 ### 更新情報
 * 2017.07.24 shapes更新(OSM版)，office_jp・transfer追加（試行版）
+* 2017.06.01 公開
 
 ## 参考
 * [GTFSとは（Google）](https://developers.google.com/transit/gtfs/?hl=ja)
