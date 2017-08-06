@@ -2,6 +2,8 @@
 函館市電オープンデータのGTFS化データ（「標準的なバス情報フォーマット」準拠）です。
 函館市の公開するオープンデータを基に作成しています。
 
+https://tshimada291.github.io/hakodateshiden/hakodate_shiden_gtfs.zip
+
 ## ライセンス
 使用データに基づき，[CC BY-SA](https://creativecommons.org/licenses/by-sa/2.1/jp/) を適用します。
 
