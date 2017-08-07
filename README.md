@@ -4,6 +4,10 @@
 
 https://tshimada291.github.io/hakodateshiden/hakodate_shiden_gtfs.zip
 
+## 適用例
+* [GTFS Viewer](http://www1.ttn.ne.jp/~shima/ict/opendata/apps/gtfs-viewer/)（日本国内で公開されているGTFSデータ・標準的なバス情報フォーマットデータの表示）
+* [函館まっぷ](http://www1.ttn.ne.jp/~shima/ict/opendata/apps/gtfs-viewer/hakodate-map.html)（函館市電データと市内施設の表示（指定時間での営業状況・時刻表の表示に対応））
+
 ## ライセンス
 使用データに基づき，[CC BY-SA](https://creativecommons.org/licenses/by-sa/2.1/jp/) を適用します。
 
