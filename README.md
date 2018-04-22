@@ -16,6 +16,7 @@ https://tshimada291.github.io/hakodateshiden/hakodate_shiden_gtfs.zip
 * 緯度経度情報（stops.txt, shapes.txt）： [OpenStreetMap](http://openstreetmap.org/copyright)（[CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)）
 
 ### 更新情報
+* 2018.04.22 2018年度版に更新
 * 2017.07.24 shapes更新(OSM版)，office_jp・transfer追加（試行版）
 * 2017.06.01 公開
 
